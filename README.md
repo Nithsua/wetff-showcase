@@ -1,6 +1,9 @@
 # Showcase WETFF
-![Screenshot_1629821113](https://user-images.githubusercontent.com/45146774/130653614-1de79f23-9096-48a0-852a-9d9d469b712f.png)
-![Screenshot_1629821119](https://user-images.githubusercontent.com/45146774/130653625-1cde6867-40db-42f3-924e-4dca4cf5b739.png)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45146774/130653614-1de79f23-9096-48a0-852a-9d9d469b712f.png" width="300" />
+  <img src="https://user-images.githubusercontent.com/45146774/130653614-1de79f23-9096-48a0-852a-9d9d469b712f.png" width="300" /> 
+</p>
 
 A new Flutter project.
 
